@@ -1,0 +1,2 @@
+# irCancellableSwap
+A cancelable swap provides the right but not the obligation to cancel the interest rate swap at predefined dates. Most commonly traded cancelable swaps have multiple exercise dates. Given its Bermudan style optionality, a cancelable swap can be represented as a vanilla swap embedded with a Bermudan swaption. Therefore, it can be decomposed into a swap and a Bermudan swaption. Most Bermudan swaptions in a bank book actually come from cancelable swaps. This presentation provides practical details for pricing cancelable swaps.
