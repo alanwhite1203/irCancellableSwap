@@ -108,4 +108,4 @@ Call	1/10/2018	1/14/2018
 
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/faq.html
