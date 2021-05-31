@@ -106,6 +106,9 @@ Call	1/10/2018	1/14/2018
 
 
 
+References:
 
-You can find more details at
-https://finpricing.com/faq.html
+https://finpricing.com/lib/EqConvertible.html
+
+https://bitbucket.org/cmrm11/ircancelableswap/downloads/IrCancelableSwap-29.pdf
+
